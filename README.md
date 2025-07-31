@@ -17,7 +17,7 @@ A college project focused on designing and building a cost-effective, automated 
 ## Project Files & Links
 
 * **[View the Full Project Report](AGROBOT-Report.pdf)**
-* **[View the Project Presentation](AGROBOT-Presentation.pdf)**
+* **[View the Project Presentation](AGROBOT-PPT.pdf)**
 
 ---
 
